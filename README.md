@@ -9,13 +9,28 @@
 ---
 ## Syfte och målgrupp
 
-Syftet med gruppens projekt är att med hjälp av en sensor avläsa vattenmängd i djurs vattenskål. Målgruppen vi vill nå ut till är djurägare. Med en notis från din applikation blir du signalerad när det är dags att fylla på vattenskålen. På långsikt kommer man kunna få en överblick på sitt djurs dagliga vattenintag men det kommer även kunna visa ev avvikelser. Detta ger djurägare möjligheten att lägga märkte till ev sjukdomar hos sitt husdjur tidigare, innan det hinner gå för långt. 
+Syfte
+
+- Kontrollera vattennivå
+- Blir signalerad när det är dags att fylla på vatten
+- Får en *överblick* av husdjurets vattenintag
+- Kunna upptäcka ev *avvikelser* av vattenkonsumtion hos husdjuret
+
+Målgrupp
+
+- Djurägare
+
+Kontext
+
+- Att kunna hålla kolla på ett annars självständigt djur
+
 ---
 ## Mål
 
 ---
 ## Sensor
 
+![Bild på vattennivåsensor](https://www.electrokit.com/resource/unJ0/HDN/M8rOZh28K7/quick/ca/5f/8698_liquid-level-sensor_l_1_5.jpg)
 
 ---
 ## Fördelar
