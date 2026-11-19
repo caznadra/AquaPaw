@@ -1,7 +1,27 @@
 # AquaPaw
-## Det bästa för din bästavän
+---
 
-### Syfte och målgrupp
+## Inledning
+
+---
+## Agenda
+
+---
+## Syfte och målgrupp
+
+Syftet med gruppens projekt är att med hjälp av en sensor avläsa vattenmängd i djurs vattenskål. Målgruppen vi vill nå ut till är djurägare. Med en notis från din applikation blir du signalerad när det är dags att fylla på vattenskålen. På långsikt kommer man kunna få en överblick på sitt djurs dagliga vattenintag men det kommer även kunna visa ev avvikelser. Detta ger djurägare möjligheten att lägga märkte till ev sjukdomar hos sitt husdjur tidigare, innan det hinner gå för långt. 
+---
+## Mål
+
+---
+## Sensor
 
 
-Syftet med gruppens projekt är att med hjälp av en sensor och PHmätare avläsa vattenmängd och vattnetsPHvärden i djurs vattenskål. Målgruppen vi vill nå ut till är djurägare. Med hjälp av en lysdiod ska ägaren signaleras ifall vattnert behöver bytas eller fyllas på.  
+---
+## Fördelar
+
+---
+## Eventuella hinder
+
+---
+## Avslutning
