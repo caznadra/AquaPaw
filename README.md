@@ -10,7 +10,13 @@ AquaPaw ska göra det enklare för djurägare att hålla koll på sina husdjurs 
 
 ---
 ## Agenda
-
+1. **Inledning** - Presentation av AquaPaw.
+2. **Syfte & Målgrupp** - Varför vi skapar produkten och vem den riktar sig till.
+3. **Mål** - Vad vi vill uppnå med projektet.
+4. **Sensor** - Vilken teknik vi använder.
+5. **Fördelar** - Vilka möjligheter och fördelar produkten ger.
+6. **Eventuella hinder** - Utmaningar under projektets gång.
+7. **Avslutning** - Sammanfattning av projekt.
 ---
 ## Syfte och målgrupp
 
