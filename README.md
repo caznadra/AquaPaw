@@ -20,7 +20,7 @@ Syftet med gruppens projekt är att med hjälp av en sensor avläsa vattenmängd
 ---
 ## Sensor
 
-s
+
 ---
 ## Fördelar
 
