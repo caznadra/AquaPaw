@@ -50,7 +50,25 @@ Kontext
 - Möjlighet att upptäcka hälsoproblem tidigare.  
 - En enklare och tryggare vardag. 
 ---
-## Eventuella hinder
+
+## Eventuella hinder och lösningar
+
+- ### 1) Flera husdjur: 
+
+Vi fokuserar först på ett husdjur. Att ha flera husdjur som dricker ur samma skål kan vara ett problem, eftersom man inte vet vilket djur som har druckit vatten och hur mycket.
+
+- ### Lösning: 
+
+RFID-teknik (Radio Frequency Identification) kan användas för att identifiera olika husdjur och registtrera deras individuella vattenförbrukning.
+
+---
+- ### 2) Mätning: 
+
+Vissa husdjur kan leka med vattnet, vilket kan orsaka spill och påverka mätningen. Det kan leda till felaktiga värden.
+ 
+ - ### Lösning:
+
+ Filtrering av mätdata kan minska påverkan från spill och felaktiga mätvärden.
 
 ---
 ## Avslutning
