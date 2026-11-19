@@ -13,13 +13,21 @@ Syftet med gruppens projekt är att med hjälp av en sensor avläsa vattenmängd
 ---
 ## Mål
 
+ Underlätta vardagen och bidra till en bättre hälsokoll. 
+
+ 
+
 ---
 ## Sensor
 
-
+s
 ---
 ## Fördelar
 
+- Ökad trygghet för djurägaren. 
+- Minskad oro kring husdjurets hälsa.  
+- Möjlighet att upptäcka hälsoproblem tidigare.  
+- En enklare och tryggare vardag. 
 ---
 ## Eventuella hinder
 
