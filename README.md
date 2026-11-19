@@ -54,3 +54,9 @@ Kontext
 
 ---
 ## Avslutning
+
+AquaPaw. Påminner dig om när vattent minskar och ger dig insikter i husdjurets vattenvanor, nu- och framtid.
+
+- Vattennivåsensor för nogranna mätningar av vattenskålen.
+- Notera förändringar innan det gått för långt!
+- Gör vardagen tryggare och smidigare, för både dig och ditt husdjur.
