@@ -2,6 +2,11 @@
 ---
 
 ## Inledning
+Att se till att husdjur får i sig tillräckligt med vatten är viktigt för djurets hälsa och välmående. Det kan dock vara svårt för djurägare att hålla koll på hur mycket vatten deras husdjur dricker och när vattenskålen behöver fyllas på.
+
+Därför har vi valt att utveckla AquaPaw, ett smart system som med hjälp av sensorer mäter vattennivån i djurets vattenskål och registrerar hur mycket vatten djuret dricker. Genom en tillhörande applikation ska djurägaren kunna följa husdjurets dagliga vattenintag och få notiser när det är dags att fylla på skålen.
+
+AquaPaw ska göra det enklare för djurägare att hålla koll på sina husdjurs vattenvanor och upptäcka eventuella avvikelser.
 
 ---
 ## Agenda
