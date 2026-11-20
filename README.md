@@ -34,6 +34,7 @@ Målgrupp
 Kontext
 
 - Att kunna hålla kolla på ett annars självständigt djur
+- Smidigt trots att man är flera i hushållet eller har ett annars hektiskt vardagsliv
 
 ---
 ## Mål
@@ -81,5 +82,5 @@ Vissa husdjur kan leka med vattnet, vilket kan orsaka spill och påverka mätnin
 AquaPaw. Påminner dig om när vattent minskar och ger dig insikter i husdjurets vattenvanor, nu- och framtid.
 
 - Vattennivåsensor för noggranna mätningar av vattenskålen.
-- Notera förändringar innan det gått för långt!
+- Notera avvikelser innan det gått för långt!
 - Gör vardagen tryggare och smidigare, för både dig och ditt husdjur.
