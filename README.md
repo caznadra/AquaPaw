@@ -46,6 +46,8 @@ Kontext
 ---
 ## Sensor
 
+# Vattennivåsensor
+
 ![Bild på vattennivåsensor](https://www.electrokit.com/resource/unJ0/HDN/M8rOZh28K7/quick/ca/5f/8698_liquid-level-sensor_l_1_5.jpg)
 
 ---
