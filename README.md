@@ -17,7 +17,7 @@ AquaPaw ska göra det enklare för djurägare att hålla koll på sina husdjurs 
 4. **Sensor** - Vilken teknik vi använder.
 5. **Fördelar** - Vilka möjligheter och fördelar produkten ger.
 6. **Eventuella hinder** - Utmaningar under projektets gång.
-7. **Avslutning** - Sammanfattning av projekt.---
+7. **Avslutning** - Sammanfattning av projekt.
 ## Syfte och målgrupp
 
 Syfte
