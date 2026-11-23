@@ -40,6 +40,7 @@ Kontext
 ## Mål
 
  Underlätta vardagen och bidra till en bättre hälsokoll. 
+ Medhjälp av en notifikation kan användaren bli meddelad om när det är dags att fylla på vatten skålen och om en förändring skett av djurets vattenintag. Förändringen ska kunna ses genom ett grafiskt diagram när användaren kan se djurets rekommenderade mål för vattenintag. Tabellen ska visas i tabell och tid. Standards vyn ska vara en veckoöversikt men möjlighet att kunna gå tillbaka i tiden och se hur det varit. 
 
  
 
