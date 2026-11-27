@@ -3,7 +3,7 @@
 
 ## Vad är Blinkprogram?
 
-Här lär vi oss hur man använder ett enkelt Blinkprogram för att få en LED-lampa att tändas och släckas. Vi tittar på hur en mikrokontroller fungerar, hur man skriver kod i Arduino IDE och hur man styr en LED med hjälp av digitala signaler. Det är ett bra första steg för att förstå programmering och elektronik.
+Här lär vi oss hur man använder ett enkelt Blinkprogram för att få en LED-lampa att tändas och släckas. Vi tittar på hur en mikrokontroller fungerar, hur man skriver kod i Arduino IDE och hur man styr en LED med hjälp av digitala signaler. Det är ett bra första steg för att förstå programmering.
 
 ## Mikroprocessor
 
