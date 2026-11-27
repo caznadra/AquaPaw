@@ -3,7 +3,7 @@
 
 ## Översikt
 
-Ett Blinkprogram är ett enkelt program som får en LED-lampa att tändas och släckas. Det är ett bra första exempel för att lära sig hur en mikrokontroller fungerar och hur man styr en digital port.
+Här lär vi oss hur Blinkprogram är ett enkelt program som får en LED-lampa att tändas och släckas. Det är ett bra första exempel för att lära sig hur en mikrokontroller fungerar och hur man styr en digital port.
 
 ## Mikroprocessor
 
