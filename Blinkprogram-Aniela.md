@@ -40,6 +40,23 @@ När programmet startas ställs LED-pinnen in som en utgång. Sedan upprepar pro
 
 ## Kodexempel
 
+C++ är ett programmeringsspråk som används för att styra mikrokontroller. I Arduino IDE skriver vi kod för att bestämma vad NodeMCU ska göra.
+
+```cpp
+
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+}
+```
+
 Här visas ett exempel på ett Blinkprogram i Arduino IDE. Programmet tänder LED-lampan i en sekund och släcker den i en sekund.
 
 <img src="blink-arduino.png" width="600">
