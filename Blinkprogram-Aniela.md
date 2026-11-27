@@ -11,6 +11,8 @@ NodeMCU använder mikroprocessorn ESP8266. Den kan programmeras med Arduino IDE 
 
 NodeMCU ansluts till datorn med en USB-kabel. Koden skrivs i Arduino IDE och laddas sedan upp till kortet.
 
+![NodeMCU board](
+
 ## Två basfunktioner i Arduino
 
 Arduino-program använder två viktiga funktioner:
@@ -39,6 +41,8 @@ I Blinkprogrammet skickas först en HIGH-signal till pin D5. LED-lampan tänds o
 ## Kodexempel
 
 Här visas ett exempel på ett Blinkprogram i Arduino IDE. Programmet tänder LED-lampan i en sekund och släcker den i en sekund.
+
+![Blinkprogram i Arduino IDE]
 
 ## Användning i vårt projekt
 
