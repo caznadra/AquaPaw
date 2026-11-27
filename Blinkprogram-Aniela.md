@@ -11,7 +11,7 @@ NodeMCU använder mikroprocessorn ESP8266. Den kan programmeras med Arduino IDE 
 
 NodeMCU ansluts till datorn med en USB-kabel. Koden skrivs i Arduino IDE och laddas sedan upp till kortet.
 
-![NodeMCU board](
+![NodeMCU board](FA19F3A9-2887-4535-A6D8-E354B7C067A0 2.jpg)
 
 ## Två basfunktioner i Arduino
 
