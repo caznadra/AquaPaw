@@ -42,7 +42,7 @@ I Blinkprogrammet skickas först en HIGH-signal till pin D5. LED-lampan tänds o
 
 Här visas ett exempel på ett Blinkprogram i Arduino IDE. Programmet tänder LED-lampan i en sekund och släcker den i en sekund.
 
-![Blinkprogram i Arduino IDE](Skärmavbild%202026-11-27%20kl.%2001.49.02.png)
+![Blinkprogram i Arduino IDE](blink-arduino.png)
 
 
 ## Användning i vårt projekt
