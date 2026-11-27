@@ -62,7 +62,7 @@ Här visas ett exempel på ett Blinkprogram i Arduino IDE. Programmet tänder LE
 <img src="blink-arduino.png" width="600">
 
 
-## Användning i grupp projektet
+## Användning i vårt grupp projekt
 
 I vårt projekt ska vi mäta hur mycket vatten en katt dricker. Samma princip med digitala signaler kan användas för att styra en LED. Till exempel kan en LED tändas om vattennivån är låg och visa att katten behöver mer vatten.
 
