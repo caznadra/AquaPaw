@@ -42,7 +42,7 @@ När programmet startas ställs LED-pinnen in som en utgång. Sedan upprepar pro
 
 C++ är ett programmeringsspråk som används för att styra mikrokontroller. I Arduino IDE skriver vi kod för att bestämma vad NodeMCU ska göra.
 
-```cpp
+```c++
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
