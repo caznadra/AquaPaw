@@ -26,9 +26,9 @@ För att kunna styra en LED måste pinnen ställas in som en utgång. Detta gör
 
 Exempel:
 
-`pinMode(D5, OUTPUT);`
+`pinMode(LED_BUILTIN, OUTPUT);`
 
-D5 är pinnen som används. `OUTPUT` betyder att mikroprocessorn ska skicka en signal ut från pinnen.
+´LED BUILTIN´ är pinnen som används. `OUTPUT` betyder att mikroprocessorn ska skicka en signal ut från pinnen.
 
 ## Kod med förklaringar
 
