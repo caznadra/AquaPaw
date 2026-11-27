@@ -1,9 +1,9 @@
 # Blinkprogram på NodeMCU (ESP8266)
 
 
-## Översikt
+## Vad är Blinkprogram?
 
-Här lär vi oss hur Blinkprogram är ett enkelt program som får en LED-lampa att tändas och släckas. Det är ett bra första exempel för att lära sig hur en mikrokontroller fungerar och hur man styr en digital port.
+Här lär vi oss hur man använder ett enkelt Blinkprogram för att få en LED-lampa att tändas och släckas. Vi tittar på hur en mikrokontroller fungerar, hur man skriver kod i Arduino IDE och hur man styr en LED med hjälp av digitala signaler. Det är ett bra första steg för att förstå programmering och elektronik.
 
 ## Mikroprocessor
 
@@ -13,7 +13,7 @@ NodeMCU ansluts till datorn med en USB-kabel. Koden skrivs i Arduino IDE och lad
 
 <img src="FA19F3A9-2887-4535-A6D8-E354B7C067A0 2.jpg" width="400">
 
-## Två basfunktioner i Arduino
+## Två grundfunktioner i Arduino
 
 Arduino-program använder två viktiga funktioner:
 
@@ -30,9 +30,9 @@ Exempel:
 
 ´LED BUILTIN´ är pinnen som används. `OUTPUT` betyder att mikroprocessorn ska skicka en signal ut från pinnen.
 
-## Kod med förklaringar
+## Så fungerar koden
 
-I Blinkprogrammet skickas först en HIGH-signal till pin D5. LED-lampan tänds och väntar i en sekund. Sedan skickas en LOW-signal och lampan släcks. Detta upprepas hela tiden.
+När programmet startas ställs LED-pinnen in som en utgång. Sedan upprepar programmet samma moment. I Blinkprogrammet skickas först en HIGH-signal till LED pinnen. LED-lampan tänds och väntar i en sekund. Sedan skickas en LOW-signal och lampan släcks. Detta upprepas hela tiden.
 
 - `digitalWrite(HIGH)` – tänder LED-lampan.
 - `digitalWrite(LOW)` – släcker LED-lampan.
